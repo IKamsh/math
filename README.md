@@ -5,3 +5,4 @@ some code related to math
 consist class of matrices over the field of rational numbers
 
 ## is_solution_finite
+implementation of an algorithm for checking the finiteness of the set of solutions of a system of algebraic equations (notice that theorem is true only over the field of complex numbers) using grobner basis (https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
